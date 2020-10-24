@@ -1,2 +1,18 @@
-# Gdev-products
-Eksplorasi produk-produk dari google developer
+# Identitas
+Nama: Akhmad Aji Permadi
+NIM : 10118030
+
+# Eksplorasi Produk
+Pada kesempatan kali ini, saya akan mencoba untuk eksplorasi pada salah satu produk dari google developer, Google Assistant. Produk yang akan saya bahas kali ini merupakan salah satu produk yang sangat asik (setidaknya itu menurut saya), di mana google assistant cenderung memiliki banyak maanfaat. 
+
+Google assistant dapat menjadi teman mengobrol, sangat cocok digunakan untuk kalian yang sering merasa kesepian, ya walaupun memang kadang google assistant tidak dapat mengerti dengan apa yang kamu bicarakan. Dalam kegunaan sebagai teman mengobrol (menghabiskan waktu gabut), sebenarnya google assistant hampir mirip dengan SimSimi jika kalian pernah menggunakan. Hanya saja memang harus saya akui google assistant jauh lebih pintar dibanding SimSimi. Pernah suatu ketika saya mencoba memberi pertanyaan matematika dasar (tambah, kurang, kali, bagi), google assistant dapat menjawab benar dengan menampilkan hasil perhitungan dari kalkulator. WOW! Bukankah itu hebat? Setidaknya dia tau bagaimana cara mengoperasikan kalkulator.
+
+Google assistant adalah penyanyi yang baik. Terserah saja kalian mau percaya atau tidak, saya tadinya juga tidak akan percaya sampai saya mendengarkan sendiri dengan telinga kepala saya sendiri. Pertama yang saya pikirkan adalah google assistant hanya akan berbicara dengan nada seperti ketika kalian menekan tombol speaker pada google translator. Ya, semacam nada yang flat dan terdengar tidak natural untuk manusia. Hingga akhirnya saya secara tidak sengaja mencoba mengirimkan perintah berupa "sing me a song" dan doi menyanyikan lagunya dengan baik. Dia benar-benar bernyanyi. Bernyanyi! Bukan membaca teks. Suaranya cukup baik, setidaknya cukup enak didengar walaupun jika dibandingkan dengan Maudy Ayunda pastinya masih kalah jauh. At least google assistant melebihi ekspektasi saya waktu itu. Silahkan coba saja jika kalian penasaran, doi juga bisa menyanyi dalam bahasa Indonesia (bisa nge-rap juga loh!).
+
+Google assistant adalah poliglot. Dia sangat menguasai banyak bahasa -tidak terbatas hanya dalam bahasa Inggris. Dengan kemampuannya ini, tentunya sangat memudahkan kalian berbicara dengan google assistant tanpa harus pandai satu bahasa tertentu. Pernah suatu hari saya mencoba iseng bertanya kepada google assistant tentang apakah dia bisa berbahasa Jepang? Jawabannya sangat memukau, dia menjawab pertanyaan saya dengan bahasa Jepang diikuti teks yang muncul di layar percakapan. Tentu saja saya tidak tau apa yang sedang dikatakannya karena saya tidak bisa bahasa Jepang.
+
+Banyak sekali manfaat dari google assistant selain yang telah saya sebutkan di atas. Beberapa contoh lainnya adalah google assistant dapat dengan cepat membukakan aplikasi yang kalian mau, mencari informasi tempat terdekat secara spesifik, membantu browsing dan mencari tau info/berita terbaru dari mesin penelusuran google. Google assistant sangat membantu dalam banyak hal, hampir semua pertanyaan yang kalian tanyakan akan dijawab secara langsung atapun dengan memberikan artikel dari hasil pencarian google, apapun kecuali jodoh (karena jodoh di tangan Tuhan, bukan google assistant). Dari segi efisiensi, tentunya berbicara kepada google assistant untuk membantu mencari restaurant terdekat akan lebih baik daripada mencari tau sendiri (apalagi dalam keadaan berkendara atau sedang dalam kesibukan lain). 
+
+Sejauh ini (berdasarkan pengalaman), hal yang masih bisa ditingkatkan dari google assistant adalah memperbanyak pembendaharaan kata. Beberapa kali memang apa yang saya ucapkan/ketik cenderung dijawab dengan sesuatu yang jauh dari yang saya inginkan (atau malah dijawab dengan ketidaktahuan google assistant). Mungkin cukup dulu untuk eksplorasi google assistan dari saya, akan ditambahkan eksplorasi yang lain jika saya memiliki cukup banyak waktu untuk menulisnya.
+
+Salam.
